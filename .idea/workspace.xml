@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d2be7f6-1f41-48ae-bb38-823a4bf632fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.coffee.begin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/Arithematic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/CheckEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/TemperatureConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/checkLeapYear.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2p6OBcIvDb2eRcOYwwDdDQD2epV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arithematic.executor": "Run",
+    "Application.Base (1).executor": "Run",
+    "Application.Base (2).executor": "Run",
+    "Application.Base.executor": "Run",
+    "Application.CheckEvenOdd.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.IsPalindrome.executor": "Run",
+    "Application.Patterns.executor": "Run",
+    "Application.TemperatureConversion.executor": "Run",
+    "Application.UserInput.executor": "Run",
+    "Application.checkLeapYear.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.IsPalindrome">
+    <configuration name="CheckEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.CheckEvenOdd" />
+      <module name="com.coffee.begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.Factorial" />
+      <module name="com.coffee.begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.IsPalindrome" />
+      <module name="com.coffee.begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.Patterns" />
+      <module name="com.coffee.begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkLeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.checkLeapYear" />
+      <module name="com.coffee.begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IsPalindrome" />
+        <item itemvalue="Application.Patterns" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.CheckEvenOdd" />
+        <item itemvalue="Application.checkLeapYear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d2be7f6-1f41-48ae-bb38-823a4bf632fc" name="Changes" comment="" />
+      <created>1732082929261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732082929261</updated>
+    </task>
+    <servers />
+  </component>
+</project>
