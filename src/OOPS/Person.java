@@ -13,6 +13,18 @@ public class Person {
         this.lastName = lastName;
     }
 
+    Person(String firstName, String lastName, int age) {
+        this.age = age;
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+    Person(String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+
     public int getAge() {
         return age;
     }
